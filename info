@@ -1,0 +1,4 @@
+# my.melody
+git remote add origin https://github.com/irisorlanda/my.melody.git
+git branch -M main
+git push -u origin main
